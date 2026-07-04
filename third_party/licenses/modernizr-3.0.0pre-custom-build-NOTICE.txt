@@ -1,0 +1,11 @@
+MIT License
+
+Modernizr 3.0.0pre (Custom Build)
+
+The bundled ReactDOM distribution includes the following notice:
+
+    Modernizr 3.0.0pre (Custom Build) | MIT
+
+The exact custom-build Modernizr source is embedded in the ReactDOM production
+bundle used by this project. This file records the MIT-license attribution that
+appears in the bundled artifact.
